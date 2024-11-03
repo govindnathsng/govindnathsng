@@ -74,7 +74,7 @@ With a strong foundation in both **backend** and **frontend** technologies, I'm 
 
 **Advanced Full Stack Apprentice - Crio.Do**  
 *August 2023 - August 2024*  
-- Completed 150+ problems in **Data Structures and Algorithms**.
+- Completed 200+ problems in **Data Structures and Algorithms**.
 - Built responsive and scalable **full-stack applications** using Java (Spring Boot) and React, integrating back-end fundamentals.
 
 ---
