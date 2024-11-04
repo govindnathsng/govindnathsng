@@ -93,7 +93,7 @@ With a strong foundation in both **backend** and **frontend** technologies, I'm 
 -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=govindnathsng&theme=merko" alt="Streak Stats" style="width: 53%; margin-right: 10px;" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=govindnathsng&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages" style="width: 38%; margin-left: 100px;" />
 </div>
 
